@@ -10,12 +10,12 @@ git clone https://github.com/1-fares/linux_nginx_sqlite_php_image.git
 
 ## Installation with script on Debian
 ```
-cd linux_nginx_sqlite_php_image
+cd linux_nginx_elasticsearch_php_image
 ./debian_install_software.sh
 ```
 Line to copy/paste for a brand new Debian deployment:
 ```
-apt-get update && apt-get upgrade -y && apt-get install git -y && git clone https://github.com/1-fares/linux_nginx_sqlite_php_image.git && cd linux_nginx_sqlite_php_image && ./debian_install_software.sh
+apt-get update && apt-get upgrade -y && apt-get install git -y && git clone https://github.com/1-fares/linux_nginx_elasticsearch_php_image.git && cd linux_nginx_elasticsearch_php_image && ./debian_install_software.sh
 ```
 ## Installation without script
 1. Install Docker (eg. [Docker CE](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository))
