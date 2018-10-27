@@ -3,7 +3,7 @@
 # Copyright (c) 2018-2019, Fares Abdullah, all rights reserved.
 
 # Adjust to your Symfony app root
-APP_PATH=../property_manager_app
+APP_PATH=../monumental_app
 
 if [ ! -e $APP_PATH ]
 then

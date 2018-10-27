@@ -24,6 +24,7 @@ set -x
 
 if [ ! -e $DB_PATH ]
 then
+	touch $DB_PATH
 	cd app
 	php bin/console doctrine:database:create
 	php bin/console make:migration
