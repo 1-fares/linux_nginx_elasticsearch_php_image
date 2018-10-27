@@ -1,5 +1,5 @@
-# linux_nginx_sqlite_php_image
-Linux / Nginx / PHP+Sqlite Docker image for Symfony apps
+# linux_nginx_elasticsearch_php_image
+Linux / Nginx / PHP / Elasticsearch Docker image for Symfony apps
 
 ## Installation
 1. Install Git
